@@ -68,6 +68,13 @@
   cursor: pointer;
 }
 
+.custom__button:hover {
+  color: #ffffff;
+  transform: scale(1.1);
+  outline: 2px solid var(--color-golden);
+  box-shadow: 4px 5px 17px -4px var(--color-golden);
+}
+
 .p__cormorant {
   font-family: var(--font-base);
   color: var(--color-white);
