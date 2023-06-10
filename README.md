@@ -41,6 +41,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 # Preview
 
+![preview](https://github.com/IrakliGvelesiani/FlavorFusion/assets/104423165/58eea1e0-c20c-48d3-9b83-c7dbe5ec0be0)
 
-![preview](https://github.com/IrakliGvelesiani/FlavorFusion/assets/104423165/1dee6f90-261c-478e-9a06-4f7ca5823d7a)
+
 
